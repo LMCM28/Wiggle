@@ -14,3 +14,6 @@ LMCM28 - Responsible for formatting and submission of professional documents, cr
 Blastmindx - Helped with the general code for the project, tasked with trying to make a gui, general input sanitization, Inbound / outbound rule checking.
 
 JakobPidgeon - Helped with the general code for the project, tasked with trying to make a gui, general input sanitization, Inbound / outbound rule checking.
+
+
+**This is a capstone project that was worked on with all the github users listed above.
